@@ -1,7 +1,3 @@
-Certainly! Here's a message you can include in your README to inform visitors about the data science projects you have uploaded:
-
----
-
 ## Welcome to My Data Science Projects Repository!
 
 Hello and welcome to my GitHub repository! Here, I have uploaded a collection of data science projects that I have worked on. Each project showcases my skills and experience in data analysis, machine learning, and data visualization.
@@ -41,6 +37,3 @@ I'm always open to feedback and collaboration. You can reach me at:
 
 Thank you for visiting my repository. I hope you find these projects informative and inspiring!
 
----
-
-Feel free to customize this message further to better fit your projects and personal style.
