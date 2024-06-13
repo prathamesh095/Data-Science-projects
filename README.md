@@ -36,8 +36,8 @@ If you're interested in replicating or building upon these projects, please chec
 I'm always open to feedback and collaboration. You can reach me at:
 
 - **Email**: pawarprathamesh095@gmail.com
-- **LinkedIn**:prathamesh095(https://www.linkedin.com/in/yourprofile)
-- **GitHub**: prathamesh095(https://github.com/yourusername)
+- **LinkedIn**:Prathamesh Pawar(https://www.linkedin.com/in/prathamesh095)
+- **GitHub**: Prathamesh Pawar (https://github.com/prathamesh095)
 
 Thank you for visiting my repository. I hope you find these projects informative and inspiring!
 
