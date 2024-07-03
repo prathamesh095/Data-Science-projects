@@ -1,8 +1,0 @@
-Spaceship_Titanic_Rescue/
-│
-├── README.md
-├── Spaceship_Titanic_Rescue.ipynb
-├── sample_submission.csv
-└── data/
-    ├── train.csv
-    └── test.csv
